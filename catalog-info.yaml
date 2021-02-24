@@ -7,4 +7,3 @@ spec:
   type: service
   lifecycle: production
   owner: team-nik
-  subcomponentOf: wayback-archive
