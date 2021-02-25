@@ -2,6 +2,12 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: nikita-meta-name
+  annotations:
+    # backstage.io/techdocs-ref: url:https://github.com/org/repo
+    backstage.io/techdocs-ref: url:https://github.com/NikitaBaranov-Koho/backstage-test
+    # Or
+    # backstage.io/techdocs-ref: url:https://github.com/org/repo/tree/branchName/subFolder
+
 spec:
   type: service
   lifecycle: production
