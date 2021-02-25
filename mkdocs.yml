@@ -1,7 +1,8 @@
 site_name: 'nik-example-docs'
 
-nav:
-  - Home: index.md
-
 plugins:
   - techdocs-core
+  
+nav:
+  - Home: 'index.md'
+  - ReadMe: '../README.md'
