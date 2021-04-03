@@ -4,6 +4,7 @@ metadata:
   name: nikita-meta-name
   annotations:
     backstage.io/techdocs-ref: url:https://github.com/NikitaBaranov-Koho/backstage-test/tree/main
+    github.com/project-slug: url:https://github.com/NikitaBaranov-Koho/backstage-test
     # github.com/project-slug: NikitaBaranov-Koho/backstage-test
     # backstage.io/techdocs-ref: url:https://github.com/org/repo
     # backstage.io/techdocs-ref: url:https://github.com/NikitaBaranov-Koho/backstage-test/tree/main
