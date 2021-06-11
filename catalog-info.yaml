@@ -5,6 +5,7 @@ metadata:
   annotations:
     datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/utc0na9bre9a4urb-2dca7123b3e0ab4dfbabbd65bef56452
     datadoghq.com/graph-token: 10e1ea8f950ae2c90ba62e1964820d23bfc8542b25662924521dc61b4073a8fc
+    datadoghq.com/site: datadoghq.com
     backstage.io/techdocs-ref: url:https://github.com/NikitaBaranov-Koho/backstage-test/tree/main
     github.com/project-slug: NikitaBaranov-Koho/backstage-test
     # github.com/project-slug: NikitaBaranov-Koho/backstage-test
