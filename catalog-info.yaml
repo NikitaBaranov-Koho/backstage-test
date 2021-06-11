@@ -4,6 +4,7 @@ metadata:
   name: nikita-meta-name
   annotations:
     datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/utc0na9bre9a4urb-42b137f580979a80a17c5860fc95947c
+    datadoghq.com/graph-token: 10e1ea8f950ae2c90ba62e1964820d23bfc8542b25662924521dc61b4073a8fc
     backstage.io/techdocs-ref: url:https://github.com/NikitaBaranov-Koho/backstage-test/tree/main
     github.com/project-slug: NikitaBaranov-Koho/backstage-test
     # github.com/project-slug: NikitaBaranov-Koho/backstage-test
