@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: nikita-meta-name
   annotations:
+    datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/utc0na9bre9a4urb-42b137f580979a80a17c5860fc95947c
     backstage.io/techdocs-ref: url:https://github.com/NikitaBaranov-Koho/backstage-test/tree/main
     github.com/project-slug: NikitaBaranov-Koho/backstage-test
     # github.com/project-slug: NikitaBaranov-Koho/backstage-test
@@ -10,7 +11,6 @@ metadata:
     # backstage.io/techdocs-ref: url:https://github.com/NikitaBaranov-Koho/backstage-test/tree/main
     # Or
     # backstage.io/techdocs-ref: url:https://github.com/org/repo/tree/branchName/subFolder
-    datadoghq.com/dashboard-url: https://p.datadoghq.com/sb/utc0na9bre9a4urb-42b137f580979a80a17c5860fc95947c
 spec:
   type: service
   lifecycle: production
